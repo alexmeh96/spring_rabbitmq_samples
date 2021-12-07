@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial3/tutorial3_publisher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial3/tutorial3_subscriber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial4/tutorial4_publisher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial4/tutorial4_subscriber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial5/tutorial5_publisher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial5/tutorial5_subscriber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial6/tutorial6_client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tutorial6/tutorial6_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/work_queues/work_consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/work_queues/work_producer/src/main/java" charset="UTF-8" />
+  </component>
+</project>

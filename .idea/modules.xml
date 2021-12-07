@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app1/app1.iml" filepath="$PROJECT_DIR$/app1/app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer/consumer.iml" filepath="$PROJECT_DIR$/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/producer/producer.iml" filepath="$PROJECT_DIR$/producer/producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial3/tutorial3_publisher/tutorial3_publisher.iml" filepath="$PROJECT_DIR$/tutorial3/tutorial3_publisher/tutorial3_publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial3/tutorial3_subscriber/tutorial3_subscriber.iml" filepath="$PROJECT_DIR$/tutorial3/tutorial3_subscriber/tutorial3_subscriber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial4/tutorial4_publisher/tutorial4_publisher.iml" filepath="$PROJECT_DIR$/tutorial4/tutorial4_publisher/tutorial4_publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial4/tutorial4_subscriber/tutorial4_subscriber.iml" filepath="$PROJECT_DIR$/tutorial4/tutorial4_subscriber/tutorial4_subscriber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial5/tutorial5_publisher/tutorial5_publisher.iml" filepath="$PROJECT_DIR$/tutorial5/tutorial5_publisher/tutorial5_publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial5/tutorial5_subscriber/tutorial5_subscriber.iml" filepath="$PROJECT_DIR$/tutorial5/tutorial5_subscriber/tutorial5_subscriber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial6/tutorial6_client/tutorial6_client.iml" filepath="$PROJECT_DIR$/tutorial6/tutorial6_client/tutorial6_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial6/tutorial6_server/tutorial6_server.iml" filepath="$PROJECT_DIR$/tutorial6/tutorial6_server/tutorial6_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/work_queues/work_consumer/work_consumer.iml" filepath="$PROJECT_DIR$/work_queues/work_consumer/work_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/work_queues/work_produser/work_producer.iml" filepath="$PROJECT_DIR$/work_queues/work_produser/work_producer.iml" />
+    </modules>
+  </component>
+</project>
